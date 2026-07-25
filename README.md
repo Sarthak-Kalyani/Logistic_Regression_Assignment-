@@ -4,19 +4,19 @@ This project implements a **Logistic Regression** model to predict passenger sur
 
 ---
 
-## Project Objective
+# Project Objective
 
 The objective of this project is to build a binary classification model that predicts whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, fare, and family information.
 
 ---
 
-## Dataset
+# Dataset
 
 - **Dataset Name:** train_and_test2.csv
 - **Rows:** 1309
 - **Columns:** 9
 
-### Features
+# Features
 
 - Passengerid
 - Age
@@ -30,7 +30,7 @@ The objective of this project is to build a binary classification model that pre
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -42,7 +42,7 @@ The objective of this project is to build a binary classification model that pre
 
 ---
 
-## Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
 
@@ -58,7 +58,7 @@ The following analyses were performed:
 
 ---
 
-## Data Preprocessing
+# Data Preprocessing
 
 - Renamed target column
 - Handled missing values
@@ -68,7 +68,7 @@ The following analyses were performed:
 
 ---
 
-## Machine Learning Model
+# Machine Learning Model
 
 **Algorithm Used**
 
@@ -81,7 +81,7 @@ Model Parameters:
 
 ---
 
-## Model Performance
+# Model Performance
 
 | Metric | Score |
 |---------|------:|
@@ -92,7 +92,7 @@ Model Parameters:
 
 ---
 
-## Key Insights
+# Key Insights
 
 - Gender is the most important feature affecting survival.
 - Passenger Class has a significant impact on survival.
@@ -102,7 +102,7 @@ Model Parameters:
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```
 Logistic_Regression_Assignment/
@@ -116,7 +116,7 @@ Logistic_Regression_Assignment/
 
 ---
 
-## How to Run
+# How to Run
 
 1. Clone the repository
 
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
 This project helped in understanding:
 
@@ -156,7 +156,7 @@ This project helped in understanding:
 
 ---
 
-##  Author
+#  Author
 
 **Sarthak Kalyani**
 
